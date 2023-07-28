@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/jmotions2000/reactformine.git/static/js/main.e9ecdb8e.js",
-    "index.html": "/jmotions2000/reactformine.git/index.html",
-    "main.e9ecdb8e.js.map": "/jmotions2000/reactformine.git/static/js/main.e9ecdb8e.js.map"
+    "main.js": "/reactformine/static/js/main.cd6a9cb5.js",
+    "index.html": "/reactformine/index.html",
+    "main.cd6a9cb5.js.map": "/reactformine/static/js/main.cd6a9cb5.js.map"
   },
   "entrypoints": [
-    "static/js/main.e9ecdb8e.js"
+    "static/js/main.cd6a9cb5.js"
   ]
 }
