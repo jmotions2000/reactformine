@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reactformine/static/js/main.cd6a9cb5.js",
+    "main.js": "/reactformine/static/js/main.b1675bc7.js",
     "index.html": "/reactformine/index.html",
-    "main.cd6a9cb5.js.map": "/reactformine/static/js/main.cd6a9cb5.js.map"
+    "main.b1675bc7.js.map": "/reactformine/static/js/main.b1675bc7.js.map"
   },
   "entrypoints": [
-    "static/js/main.cd6a9cb5.js"
+    "static/js/main.b1675bc7.js"
   ]
 }
