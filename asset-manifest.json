@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactformine/static/css/main.df323751.css",
-    "main.js": "/reactformine/static/js/main.e2ed273f.js",
+    "main.css": "/reactformine/static/css/main.5a6b082e.css",
+    "main.js": "/reactformine/static/js/main.eb053342.js",
     "index.html": "/reactformine/index.html",
-    "main.df323751.css.map": "/reactformine/static/css/main.df323751.css.map",
-    "main.e2ed273f.js.map": "/reactformine/static/js/main.e2ed273f.js.map"
+    "main.5a6b082e.css.map": "/reactformine/static/css/main.5a6b082e.css.map",
+    "main.eb053342.js.map": "/reactformine/static/js/main.eb053342.js.map"
   },
   "entrypoints": [
-    "static/css/main.df323751.css",
-    "static/js/main.e2ed273f.js"
+    "static/css/main.5a6b082e.css",
+    "static/js/main.eb053342.js"
   ]
 }
